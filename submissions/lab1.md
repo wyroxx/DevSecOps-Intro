@@ -76,7 +76,7 @@ Which of these are MISSING? (cross-reference Lecture 1 OWASP Top 10:2025 — A06
   - Title is clear (`feat(labN): <topic>` style)
   - No secrets/large temp files committed
   - Submission file at `submissions/labN.md` exists
-- Auto-fill verified: [ ] Yes — I will verify after pushing `feature/lab1` and opening a draft PR.
+- Auto-fill verified: [X] Yes — Auto-fill did not trigger on this first PR because `.github/PULL_REQUEST_TEMPLATE.md` is introduced by the same PR and is not yet present in `main`.
 
 ## GitHub Community
 
